@@ -1,0 +1,24 @@
+# LaTeX .gitignore
+
+# Ignore LaTeX log files and auxiliary files
+*.aux
+*.log
+*.out
+*.toc
+
+# Ignore LaTeX generated files
+*.dvi
+*.pdf
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+*.bbl
+*.blg
+
+# Ignore LaTeX editor specific files
+*.swp
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.texstudio/
+*.tco
